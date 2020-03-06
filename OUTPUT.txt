@@ -1,0 +1,118 @@
+Name: Godbless Chille
+		Anisha Bhattacharya
+CSC 172 Project1
+NETID: gchille, abhatta9
+NETID no. 31528986, 31564472
+email: gchille@u.rochester.edu
+		abhatta9@u.rochester.edu
+Lab: 6:15-7:30pm
+
+
+here are the invalid test cases which give an error message
+
+the expression---- 21.1+3*2)
+INVALID EXPRESSION!!!.......
+the expression---- 
+INVALID EXPRESSION!!!.......
+the expression---- sinsin90
+INVALID EXPRESSION!!!.......
+the expression---- ()(53+3
+ERROR CAUGHT!!
+the expression---- 
+INVALID EXPRESSION!!!.......
+the expression---- )(3-2
+INVALID EXPRESSION!!!.......
+the expression---- ()
+INVALID EXPRESSION!!!.......
+the expression---- 3-+3
+INVALID EXPRESSION!!!.......
+the expression---- 1&&0
+INVALID EXPRESSION!!!.......
+the expression---- (3-1)*(6.7-6))
+INVALID EXPRESSION!!!.......
+the expression---- 6)7
+INVALID EXPRESSION!!!.......
+
+here are test cases which implement sin,tan,cos,modulus and exponent--extra operators
+here are the invalid test cases which give an error message
+
+the expression---- 21.1+3*2)
+INVALID EXPRESSION!!!.......
+the expression---- 
+INVALID EXPRESSION!!!.......
+the expression---- sinsin90
+INVALID EXPRESSION!!!.......
+the expression---- ()(53+3
+ERROR CAUGHT!!
+the expression---- 
+INVALID EXPRESSION!!!.......
+the expression---- )(3-2
+INVALID EXPRESSION!!!.......
+the expression---- ()
+INVALID EXPRESSION!!!.......
+the expression---- 3-+3
+INVALID EXPRESSION!!!.......
+the expression---- 1&&0
+INVALID EXPRESSION!!!.......
+the expression---- (3-1)*(6.7-6))
+INVALID EXPRESSION!!!.......
+the expression---- 6)7
+INVALID EXPRESSION!!!.......
+
+here are test cases which implement sin,tan,cos,modulus and exponent--extra operators
+current expression: sin90
+1.00
+current expression: sin50
+0.7660444431189780
+current expression: sin60
+0.86602540378443860
+current expression: sin 70
+0.93969262078590830
+current expression: sin 89
+0.99984769515639130
+current expression: cos90
+6.123233995736766E-170
+current expression: cos50
+0.64278760968653940
+current expression: cos60
+0.50000000000000010
+current expression: cos70
+0.34202014332566880
+current expression: cos89
+0.01745240643728360
+current expression: tan90
+1.633123935319537E160
+current expression: tan50
+1.191753592594210
+current expression: tan60
+1.73205080756887670
+current expression: tan70
+2.74747741945462160
+current expression: tan45
+0.99999999999999990
+current expression: 4.6+55%2
+5.60
+current expression: 0.99%54
+0.990
+current expression: (2+3*5)%6
+5.00
+current expression: 12-45/3%10
+7.00
+current expression: 344.99+23%23
+344.990
+current expression: 4^3
+64.00
+current expression: 55^2
+3025.00
+current expression: 3*3^2
+27.00
+current expression: 4+5*7^4
+12009.00
+current expression: (44-50)^2
+36.00
+current expression: 27^3
+19683.00
+current expression: 3^2
+9.00
+current expression: 33-20-2^2
+9.00
